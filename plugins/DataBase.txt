@@ -1,0 +1,23 @@
+O que contem na "Data Base", 
+coloque da mesma forma respeitando 
+maisuculas e minusculas  15 colunas quando adiciona coloque aki <-
+
+   ESTRUTURA DA TABELA TABELAS-> ..contas..
+   id
+   usuario
+   senha
+   skin
+   aAdmin
+   Admin
+   Gasolina
+   Etanol
+   Diesel
+   GNV
+   Cidade
+   CasaX
+   CasaY
+   CasaZ
+   Dinheiro
+   sBancario
+   Profissao
+

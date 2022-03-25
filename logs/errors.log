@@ -1,0 +1,4 @@
+[18:18:30] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'sql10251988'@'170.245.126.157' (using password: YES)'
+[18:18:30] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'sql10251988'@'170.245.126.157' (using password: YES)'
+[18:18:31] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'sql10251988'@'170.245.126.157' (using password: YES)'
+[18:18:32] [plugins/mysql] CConnection::CConnection - establishing connection to MySQL database failed: #1045 'Access denied for user 'sql10251988'@'170.245.126.157' (using password: YES)'
